@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ar" dir="rtl">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<link href="http://wadod.net/style.css" rel="stylesheet" type="text/css" media="screen" />
+		<title>الصفحة الرئيسية &bull; مركز ودود للفهارس وكتب التحقيق</title>
+		<script type="text/javascript" src="http://wadod.net/jquery.js"></script>
+		<script type="text/javascript">
+			
+		</script>
+	</head>
+	<body>
+		<table width="778" align="center" border="0" cellspacing="0" cellpadding="0" class="main_table">
+			<thead>
+				<tr>
+					<td class="logo_td">
+						<div class="logo_img">
+						<a href="http://wadod.net/"><img src="http://wadod.net/images/logo.gif" class="zimg" /></a>						<br />
+						<div class="slogan center">للفهارس وكتب التحقيق</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td class="top_menu">
+						<a href="http://wadod.net/">الرئيسية</a> &bull; 
+						<a href="http://wadod.net/find/latest">الجديد</a> &bull; 
+						<a href="http://wadod.net/about">عن المركز</a> &bull; 
+						<a href="http://wadod.net/about/appeal">نداء إلى طلبة العلم</a>					</td>
+				</tr>
+				<tr>
+					<td>
+					<div class="top_menu_search">
+												<div><form action="http://wadod.net/find/fast" method="post">						البحث السريع: <input type="text" id="search_word" name="search_word" class="search_input tahoma s9 center" /> <input type="submit" value="اذهب" class="tahoma s9" /> <a href="http://wadod.net/find">البحث المتقدم</a>						</form></div>					</div>
+					</td>
+				</tr>
+			</thead>
+			<tbody class="content">
+				<tr>
+					<td class="center">
+						<span class="s18">الصفحة الرئيسية</span>
+					</td>
+				</tr>
+				<tr>
+					<td class="content">
+					<div id="content">
+						<ul>
+<li><a href="http://wadod.net/bookshelf/category/43">الندوات و الملتقيات العلمية</a><li><a href="http://wadod.net/bookshelf/category/42">قسم المجلات</a><li><a href="http://wadod.net/bookshelf/category/41">الخط العربي</a><li><a href="http://wadod.net/bookshelf/category/2">فهارس المخطوطات</a><li><a href="http://wadod.net/bookshelf/category/3">فهارس الكتب</a><li><a href="http://wadod.net/bookshelf/category/4">عدة المحقق</a><li><a href="http://wadod.net/bookshelf/category/11">المكتبة والبحث</a><li><a href="http://wadod.net/bookshelf/category/16">نماذج من أعمال محققة</a><li><a href="http://wadod.net/bookshelf/category/21">دراسات و بحوث و مقالات</a><li><a href="http://wadod.net/bookshelf/category/14">رسائل ومطبوعات نادرة</a><li><a href="http://wadod.net/bookshelf/category/13">قسم المعاجم</a><li><a href="http://wadod.net/bookshelf/category/15">ديوان العرب</a><li><a href="http://wadod.net/bookshelf/category/30">منوعات</a><li><a href="http://wadod.net/bookshelf/category/36">ملفات</a><li><a href="http://wadod.net/bookshelf/category/37"> رسائل جامعية (نصوص و ملخصات)</a><li><a href="http://wadod.net/bookshelf/category/1">قسم المجلات</a><ul>
+<li><a href="http://wadod.net/bookshelf/category/6">مجلة معهد المخطوطات العربية</a><li><a href="http://wadod.net/bookshelf/category/35">مجلة آفاق الثقافة و التراث</a><li><a href="http://wadod.net/bookshelf/category/34">مجلة المناهل</a><li><a href="http://wadod.net/bookshelf/category/32">مجلة ثقافة الهند-عن موقع المصطفى</a><li><a href="http://wadod.net/bookshelf/category/27">أخبار التراث الاسلامي</a><li><a href="http://wadod.net/bookshelf/category/39">مجلة العرب</a><li><a href="http://wadod.net/bookshelf/category/20">المجلة الزيتونية</a><li><a href="http://wadod.net/bookshelf/category/10">مجلة التاريخ العربي</a><li><a href="http://wadod.net/bookshelf/category/9">مجلة المجمع العلمي - مصر</a><li><a href="http://wadod.net/bookshelf/category/12">مجلة المعهد المصري للدراسات الاسلامية - مدريد</a><li><a href="http://wadod.net/bookshelf/category/22">مجلة الفتح</a><li><a href="http://wadod.net/bookshelf/category/23">مجلة الحسبة</a><li><a href="http://wadod.net/bookshelf/category/25">مجله مجمع اللغه العربيه بدمشق</a><li><a href="http://wadod.net/bookshelf/category/29">أخبار التراث العربي</a><li><a href="http://wadod.net/bookshelf/category/31">مجلة المورد</a><li><a href="http://wadod.net/bookshelf/category/33">مجلة الرسالة</a><li><a href="http://wadod.net/bookshelf/category/19">مجلة كنوز الفرقان</a><li><a href="http://wadod.net/bookshelf/category/8">مجلة مجمع اللغة العربية - مصر</a></ul>
+</ul>
+					</div>
+					</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td class="footer">
+						<a href="http://wadod.com">مركز ودود للمخطوطات</a> &bull; <a href="http://wadod.org/vb/index.php">مجلة مركز ودود للمخطوطات</a>					</td>
+				</tr>
+				<tr>
+					<td class="gray">
+					تم تحميل الصفحة في 0.0547 ثانية<br />&nbsp;
+					</td>
+				</tr>
+			</tfoot>
+		</table>
+	</body>
+</html>
