@@ -57,7 +57,7 @@
 
 
 
-# 1400AH [[ [Re]generated on 2016-08-18 (17:44:38) ]]
+# 1400AH [[ [Re]generated on 2016-08-18 (18:17:26) ]]
 
 * `1307Qannawji.AbjadCulum `
     * TAGS: CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB,_MACAJIM
@@ -121,6 +121,10 @@
     * TAGS: CENT1400,PPE,_TARIKH
 * `1372KurdCali.KhitatSham `
     * TAGS: CENT1400,PPE,_BULDAN,_JUGHRAFIYA,_RIHLAT
+* `1373AbuYaclaZuwawi.TarikhZuwawa `
+    * TAGS: CENT1400,_TARIKH
+* `1376CabdRahmanSacdi.Muallafat `
+    * TAGS: CENT1400,PPE,_FAHARIS,_KUTUB
 * `1381MuhammadSancani.MulhaqBadr `
     * TAGS: CENT1400,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT
 * `1383CadbHayyKattani.FihrisFaharis `
