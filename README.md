@@ -57,7 +57,7 @@
 
 
 
-# 1400AH [[ [Re]generated on 2016-08-18 (16:19:37) ]]
+# 1400AH [[ [Re]generated on 2016-08-18 (17:44:38) ]]
 
 * `1307Qannawji.AbjadCulum `
     * TAGS: CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB,_MACAJIM
@@ -103,6 +103,8 @@
     * TAGS: BIB,CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB
 * `1354HasanSadr.Takmila `
     * TAGS: BIO,CENT1400,PPE,_HADITH,_SHICI,_TARAJIM
+* `1354RashidRida.Manar `
+    * TAGS: CENT1400,_MAJALLAT,_MAJMUCAT
 * `1355AhmadTahtawi.TanbihWaIqaz `
     * TAGS: BIO,CENT1400,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT
 * `1356AbuHudaKalbasi.SamaMaqal `
