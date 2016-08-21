@@ -51,13 +51,15 @@
 - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (0)
+## Vetted (2)
+
+- `0310Tabari.Tarikh.Shia003474Vols-ara1.mARkdown`
+- `0658IbnAbbar.TuhfaQadim.Shamela0026108-ara1.mARkdown`
 
 
 
 
-
-# 1400AH [[ [Re]generated on 2016-08-19 (13:43:35) ]]
+# 1400AH [[ [Re]generated on 2016-08-21 (20:32:00) ]]
 
 * `1307Qannawji.AbjadCulum `
     * TAGS: CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB,_MACAJIM
