@@ -1,11 +1,11 @@
-# Status Report
+## Status Report
  
-* 50 titles;
-* 28,293,672 words;
-* 130,688 logical units;
-* 108,771 bios.
+* 54 titles
+* 28,404,088 words
+* 132,632 logical units
+* 109,903 bios
 
-## `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
+### `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 4,081 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 10,845 bios)`
@@ -14,7 +14,7 @@
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 9,425 bios)`
 
 
-## `*.completed` (41 titles: 19,238,656 words; 84,474 units; 72,439 bios)
+### `*.completed` (45 titles: 19,349,072 words; 86,418 units; 73,571 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0355MuhammadKindi.WulatMisr (50,870 words; 131 units; 128 bios)`
@@ -55,11 +55,15 @@
 - `0658IbnAbbar.TuhfaQadim (28,899 words; 114 units; 113 bios)`
 - `0685IbnCibri.TarikhMukhtasarDuwal (97,240 words; 234 units; 0 bios)`
 - `0748Dhahabi.CibarFiKhabar (270,948 words; 868 units; 0 bios)`
+- `0748Dhahabi.Culuww (51,237 words; 777 units; 155 bios)`
+- `0748Dhahabi.DhaylCibar (37,477 words; 161 units; 0 bios)`
+- `0748Dhahabi.DhaylDiwanDucafa (12,664 words; 603 units; 576 bios)`
+- `0748Dhahabi.DhikrAsmaManTakallama (9,038 words; 403 units; 401 bios)`
 - `0774IbnKathir.TabaqatShaficiyyin (180,888 words; 965 units; 919 bios)`
 - `0900AbuCabdAllahHimyari.RawdMictar (360,474 words; 1,658 units; 1,614 bios)`
 
 
-## `*.mARkdown` (4 titles: 1,326,374 words; 13,002 units; 11,981 bios)
+### `*.mARkdown` (4 titles: 1,326,374 words; 13,002 units; 11,981 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0681IbnKhallikan.WafayatAcyan (677,511 words; 1,528 units; 862 bios)`
@@ -69,93 +73,52 @@
 
 
 
-# 1400AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]
+# 1400AH [[ [Re]generated on 2016-08-30 (16:30:04) ]]
 
-* `1307Qannawji.AbjadCulum `
-    * TAGS: CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB,_MACAJIM
-* `1307Qannawji.HittaFiDhikr `
-    * TAGS: CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB
-* `1307Qannawji.LuqtaCajlan `
-    * TAGS: BIB,CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB
-* `1313Barujirdi.Taraif `
-    * TAGS: CENT1400,PPE,SHC,_HADITH,_SHICI,_TARAJIM
-* `1313VanDyck.IktifaQunuc `
-    * TAGS: CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB
-* `1315AbuMacaliKalbasi.RasailRijaliyya `
-    * TAGS: CENT1400,PPE,SHC,_HADITH,_SHICI,_TARAJIM
-* `1315Salawi.IstiqsaLiAhkbar `
-    * TAGS: CENT1400,PPE,_BULDAN,_TARIKH
-* `1318MuhammadSanusi.Musamarat `
-    * TAGS: CENT1400,PPE,_TABAQAT,_TARAJIM
-* `1330IbnMusaTabrizi.MiratKutub `
-    * TAGS: BIB,CENT1400,PPE,_FAHARIS,_KUTUB
-* `1332ZaynabFawwaz.DurrManthur `
-    * TAGS: CENT1400,PPE,_TABAQAT,_TARAJIM
-* `1335CabdRazzaqBaytar.HilyaBashar `
-    * TAGS: CENT1400,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT
-* `1338MuhammadFaridBey.Bahja `
-    * TAGS: CENT1400,PPE,_BULDAN,_TARIKH
-* `1338MuhammadFaridBey.Tarikh `
-    * TAGS: CENT1400,PPE,_BULDAN,_TARIKH
-* `1339IsmacilBashaBaghdadi.HadiyaCarifin `
-    * TAGS: BIB,BIO,CENT1400,COL,PPE,_ADILLA,_FAHARIS,_KUTUB
-* `1339IsmacilBashaBaghdadi.IdahMaknun `
-    * TAGS: BIB,CENT1400,COL,PPE,_ADILLA,_FAHARIS,_KUTUB
-* `1341CabdHayyTalibi.IclamBiMan `
-    * TAGS: CENT1400,PPE,_TABAQAT,_TARAJIM
-* `1345IbnJacfarKattani.RisalaMustatrafa `
-    * TAGS: CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB
-* `1346CbdQadirBadran.Munadama `
-    * TAGS: CENT1400,PPE,_BULDAN,_JUGHRAFIYA,_MISC,_RIHLAT,_TARIKH
-* `1347BashirYamut.Shacirat `
-    * TAGS: _CENT00NO,_TABAQAT,_TARAJIM
-* `1351IbnHusaynGhazzi.NahrDhahab `
-    * TAGS: CENT1400,PPE,_BULDAN,_JUGHRAFIYA,_RIHLAT
-* `1351YusufIlyanSarkis.MucjamMatbucat `
-    * TAGS: BIB,CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB
-* `1354HasanSadr.Takmila `
-    * TAGS: BIO,CENT1400,PPE,_HADITH,_SHICI,_TARAJIM
-* `1354RashidRida.Manar `
-    * TAGS: CENT1400,_MAJALLAT,_MAJMUCAT
-* `1355AhmadTahtawi.TanbihWaIqaz `
-    * TAGS: BIO,CENT1400,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT
-* `1356AbuHudaKalbasi.SamaMaqal `
-    * TAGS: BIO,CENT1400,COL,PPE,SHC,_HADITH,_SHICI,_TARAJIM
-* `1359CabbasQummi.Kuna `
-    * TAGS: CENT1400,ONO,PPE,_IMAM,_NABI,_SIRA
-* `1360IbnQasimMakhluf.ShajaraNur `
-    * TAGS: BIO,CENT1400,COL,PPE,_MISC
-* `1364IbnHamdMughiri.MuntakhabQabail `
-    * TAGS: CENT1400,_ANSAB,_BULDAN,_TARIKH
-* `1368HasanAmin.MustadrakatAcyanShica `
-    * TAGS: CENT1400,PPE,_TARIKH
-* `1371MuhsinCamili.AcyanShica `
-    * TAGS: CENT1400,PPE,_TARIKH
-* `1372KurdCali.KhitatSham `
-    * TAGS: CENT1400,PPE,_BULDAN,_JUGHRAFIYA,_RIHLAT
-* `1373AbuYaclaZuwawi.TarikhZuwawa `
-    * TAGS: CENT1400,_TARIKH
-* `1376CabdRahmanSacdi.Muallafat `
-    * TAGS: CENT1400,PPE,_FAHARIS,_KUTUB
-* `1376MuhammadHajwiThacalibi.FikrSami `
-    * TAGS: CENT1400,_FIQH,_QAWACID,_USUL
-* `1381MuhammadSancani.MulhaqBadr `
-    * TAGS: CENT1400,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT
-* `1383CadbHayyKattani.FihrisFaharis `
-    * TAGS: BIB,CENT1400,PPE,_FAHARIS,_KUTUB,_TABAQAT,_TARAJIM
-* `1389AghaBuzurgTihrani.DharicaFiTasanifShica `
-    * TAGS: BIB,CENT1400,PPE,_FAHARIS,_KUTUB
-* `1389AghaBuzurgTihrani.DhaylKashfZunun `
-    * TAGS: BIB,CENT1400,COL,PPE,_FAHARIS,_KUTUB
-* `1389AghaBuzurgTihrani.TASHAnwarSatica `
-    * TAGS: CENT1400,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT
-* `1389AghaBuzurgTihrani.TASHNawabighRuwat `
-    * TAGS: CENT1400,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT
-* `1396KhayrDinZirikli.Aclam `
-    * TAGS: BIO,CENT1400,COL,PPE,_FAHARIS,_KUTUB,_TABAQAT,_TARAJIM
+* `1307Qannawji.AbjadCulum (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM)`
+* `1307Qannawji.HittaFiDhikr (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1307Qannawji.LuqtaCajlan (TAGS: BIB, CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1313Barujirdi.Taraif (TAGS: CENT1400, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
+* `1313VanDyck.IktifaQunuc (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1315AbuMacaliKalbasi.RasailRijaliyya (TAGS: CENT1400, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
+* `1315Salawi.IstiqsaLiAhkbar (TAGS: CENT1400, PPE, _BULDAN, _TARIKH)`
+* `1318MuhammadSanusi.Musamarat (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM)`
+* `1330IbnMusaTabrizi.MiratKutub (TAGS: BIB, CENT1400, PPE, _FAHARIS, _KUTUB)`
+* `1332ZaynabFawwaz.DurrManthur (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM)`
+* `1335CabdRazzaqBaytar.HilyaBashar (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `1338MuhammadFaridBey.Bahja (TAGS: CENT1400, PPE, _BULDAN, _TARIKH)`
+* `1338MuhammadFaridBey.Tarikh (TAGS: CENT1400, PPE, _BULDAN, _TARIKH)`
+* `1339IsmacilBashaBaghdadi.HadiyaCarifin (TAGS: BIB, BIO, CENT1400, COL, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1339IsmacilBashaBaghdadi.IdahMaknun (TAGS: BIB, CENT1400, COL, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1341CabdHayyTalibi.IclamBiMan (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM)`
+* `1345IbnJacfarKattani.RisalaMustatrafa (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1346CbdQadirBadran.Munadama (TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT, _TARIKH)`
+* `1347BashirYamut.Shacirat (TAGS: _CENT00NO, _TABAQAT, _TARAJIM)`
+* `1351IbnHusaynGhazzi.NahrDhahab (TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
+* `1351YusufIlyanSarkis.MucjamMatbucat (TAGS: BIB, CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1354HasanSadr.Takmila (TAGS: BIO, CENT1400, PPE, _HADITH, _SHICI, _TARAJIM)`
+* `1354RashidRida.Manar (TAGS: CENT1400, _MAJALLAT, _MAJMUCAT)`
+* `1355AhmadTahtawi.TanbihWaIqaz (TAGS: BIO, CENT1400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `1356AbuHudaKalbasi.SamaMaqal (TAGS: BIO, CENT1400, COL, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
+* `1359CabbasQummi.Kuna (TAGS: CENT1400, ONO, PPE, _IMAM, _NABI, _SIRA)`
+* `1360IbnQasimMakhluf.ShajaraNur (TAGS: BIO, CENT1400, COL, PPE, _MISC)`
+* `1364IbnHamdMughiri.MuntakhabQabail (TAGS: CENT1400, _ANSAB, _BULDAN, _TARIKH)`
+* `1368HasanAmin.MustadrakatAcyanShica (TAGS: CENT1400, PPE, _TARIKH)`
+* `1371MuhsinCamili.AcyanShica (TAGS: CENT1400, PPE, _TARIKH)`
+* `1372KurdCali.KhitatSham (TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
+* `1373AbuYaclaZuwawi.TarikhZuwawa (TAGS: CENT1400, _TARIKH)`
+* `1376CabdRahmanSacdi.Muallafat (TAGS: CENT1400, PPE, _FAHARIS, _KUTUB)`
+* `1376MuhammadHajwiThacalibi.FikrSami (TAGS: CENT1400, _FIQH, _QAWACID, _USUL)`
+* `1381MuhammadSancani.MulhaqBadr (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `1383CadbHayyKattani.FihrisFaharis (TAGS: BIB, CENT1400, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM)`
+* `1389AghaBuzurgTihrani.DharicaFiTasanifShica (TAGS: BIB, CENT1400, PPE, _FAHARIS, _KUTUB)`
+* `1389AghaBuzurgTihrani.DhaylKashfZunun (TAGS: BIB, CENT1400, COL, PPE, _FAHARIS, _KUTUB)`
+* `1389AghaBuzurgTihrani.TASHAnwarSatica (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `1389AghaBuzurgTihrani.TASHNawabighRuwat (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `1396KhayrDinZirikli.Aclam (TAGS: BIO, CENT1400, COL, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM)`
 
 
-# General description of the workflow with mARkdown
+## General description of the workflow with mARkdown
 
 0. Have Github installed and setup on your computer.
 	1. Create a github account if you do not have one
