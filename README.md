@@ -106,11 +106,12 @@
 
 
 
-# 1400AH [[ [Re]generated on 2016-10-14 (00:34:45) ]]
+# 1400AH [[ [Re]generated on 2016-10-16 (15:13:25) ]]
 
 * `1307Qannawji.AbjadCulum (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM)`
 * `1307Qannawji.HittaFiDhikr (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `1307Qannawji.LuqtaCajlan (TAGS: BIB, CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1310BakriDimyati.HashiyaIcanaTalibin (TAGS: CENT1400, _FIQH, _SHAFICI)`
 * `1313Barujirdi.Taraif (TAGS: CENT1400, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1313VanDyck.IktifaQunuc (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `1315AbuMacaliKalbasi.RasailRijaliyya (TAGS: CENT1400, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
@@ -120,6 +121,7 @@
 * `1330IbnMusaTabrizi.MiratKutub (TAGS: BIB, CENT1400, PPE, _FAHARIS, _KUTUB)`
 * `1332ZaynabFawwaz.DurrManthur (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM)`
 * `1335CabdRazzaqBaytar.HilyaBashar (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `1336CabdHamidThani.MudhakkaratiSiyasiya (TAGS: CENT1400, _MUDHAKKARAT, _QADA, _RIHLAT, _SIYASA)`
 * `1338MuhammadFaridBey.Bahja (TAGS: CENT1400, PPE, _BULDAN, _TARIKH)`
 * `1338MuhammadFaridBey.Tarikh (TAGS: CENT1400, PPE, _BULDAN, _TARIKH)`
 * `1339IsmacilBashaBaghdadi.HadiyaCarifin (TAGS: BIB, BIO, CENT1400, COL, PPE, _ADILLA, _FAHARIS, _KUTUB)`
@@ -130,6 +132,7 @@
 * `1347BashirYamut.Shacirat (TAGS: _CENT00NO, _TABAQAT, _TARAJIM)`
 * `1351IbnHusaynGhazzi.NahrDhahab (TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `1351YusufIlyanSarkis.MucjamMatbucat (TAGS: BIB, CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1353IbnCabdRahimMubarakfuri.TuhfatAhwadhi (TAGS: CENT1300, CENT1400, _CHRONOMULTIPLE, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
 * `1354HasanSadr.Takmila (TAGS: BIO, CENT1400, PPE, _HADITH, _SHICI, _TARAJIM)`
 * `1354RashidRida.Manar (TAGS: CENT1400, _MAJALLAT, _MAJMUCAT)`
 * `1355AhmadTahtawi.TanbihWaIqaz (TAGS: BIO, CENT1400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
