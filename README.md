@@ -106,11 +106,19 @@
 
 
 
-# 1400AH [[ [Re]generated on 2016-10-17 (07:49:16) ]]
+# 1400AH [[ [Re]generated on 2016-10-17 (13:25:40) ]]
 
 * `1307Qannawji.AbjadCulum (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM)`
+* `1307Qannawji.BulghaFuUsulLugha (TAGS: CENT1400, _LUGHA)`
+* `1307Qannawji.FathBayan (TAGS: CENT1400, _TAFSIR)`
 * `1307Qannawji.HittaFiDhikr (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1307Qannawji.HusnUswa (TAGS: CENT1400, _BUHUTH, _FIQH, _MASAIL, _MISC, _USUL)`
 * `1307Qannawji.LuqtaCajlan (TAGS: BIB, CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1307Qannawji.NashwatSakran (TAGS: CENT1400, _ADAB, _BALAGHA)`
+* `1307Qannawji.NaylMaram (TAGS: CENT1400, _CULUM, _QURAN)`
+* `1307Qannawji.QatfThamar (TAGS: CENT1400, _CAQAID, _MILAL)`
+* `1307Qannawji.RawdaNadiyya (TAGS: CENT1400, _FIQH)`
+* `1307Qannawji.Yaqza (TAGS: CENT1400, _ADAB, _ADHKAR, _AKHLAQ, _CAQAID, _MISC, _RAQAIQ, _SULUK)`
 * `1310BakriDimyati.HashiyaIcanaTalibin (TAGS: CENT1400, _FIQH, _SHAFICI)`
 * `1313Barujirdi.Taraif (TAGS: CENT1400, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1313VanDyck.IktifaQunuc (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
@@ -154,7 +162,10 @@
 * `1389AghaBuzurgTihrani.DhaylKashfZunun (TAGS: BIB, CENT1400, COL, PPE, _FAHARIS, _KUTUB)`
 * `1389AghaBuzurgTihrani.TASHAnwarSatica (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `1389AghaBuzurgTihrani.TASHNawabighRuwat (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `1389MuhammadAlShaykh.FatawaWaRasail (TAGS: CENT1400, _FATAWA)`
+* `1390MuhsinTabatabai.DalilNasik (TAGS: CENT1400, _FATAWA, _FIQH, _SHICI)`
 * `1396KhayrDinZirikli.Aclam (TAGS: BIO, CENT1400, COL, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM)`
+* `1400MuhammadBaqirSadr.FatawaWadiha (TAGS: CENT1400, _FATAWA, _FIQH, _SHICI)`
 
 
 ## General description of the workflow with mARkdown
