@@ -138,7 +138,7 @@
 
 
 
-# 1400AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]
+# 1400AH [[ [Re]generated on 2016-11-28 (22:57:48) ]]
 
 * `1307Qannawji.AbjadCulum (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM)`
 * `1307Qannawji.BulghaFuUsulLugha (TAGS: CENT1400, _LUGHA)`
@@ -190,6 +190,9 @@
 * `1364IbnHamdMughiri.MuntakhabQabail (TAGS: CENT1400, _ANSAB, _BULDAN, _TARIKH)`
 * `1364MacrufRusafi.Diwan (TAGS: _CENT00NO, _SHICR_CUTHMANI, _SHICR)`
 * `1368HasanAmin.MustadrakatAcyanShica (TAGS: CENT1400, PPE, _TARIKH)`
+* `1369MuhammadRida.AbuBakr (TAGS: CENT1400, _TABAQAT, _TARAJIM)`
+* `1369MuhammadRida.Cuthman (TAGS: CENT1400, _TABAQAT, _TARAJIM)`
+* `1369MuhammadRida.Muhammad (TAGS: CENT1400, _SHAMAIL, _SIRA)`
 * `1371MuhsinCamili.AcyanShica (TAGS: CENT1400, PPE, _TARIKH)`
 * `1372KurdCali.KhitatSham (TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `1373AbuYaclaZuwawi.TarikhZuwawa (TAGS: CENT1400, _TARIKH)`
