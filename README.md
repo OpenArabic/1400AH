@@ -138,8 +138,9 @@
 
 
 
-# 1400AH [[ [Re]generated on 2016-12-01 (16:28:20) ]]
+# 1400AH [[ [Re]generated on 2016-12-07 (01:57:28) ]]
 
+* `1306HamidNaqwi.KhulasatCuqubatAnwar (TAGS: CENT1400, _HADITH, _SHICI)`
 * `1307Qannawji.AbjadCulum (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM)`
 * `1307Qannawji.BulghaFuUsulLugha (TAGS: CENT1400, _LUGHA)`
 * `1307Qannawji.FathBayan (TAGS: CENT1400, _TAFSIR)`
