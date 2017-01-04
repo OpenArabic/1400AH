@@ -138,7 +138,7 @@
 
 
 
-# 1400AH [[ [Re]generated on 2016-12-10 (20:36:52) ]]
+# 1400AH [[ [Re]generated on 2017-01-04 (15:09:51) ]]
 
 * `1306HamidNaqwi.KhulasatCuqubatAnwar (TAGS: CENT1400, _HADITH, _SHICI)`
 * `1307Qannawji.AbjadCulum (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM)`
@@ -177,10 +177,29 @@
 * `1339IsmacilBashaBaghdadi.HadiyaCarifin (TAGS: BIB, BIO, CENT1400, COL, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `1339IsmacilBashaBaghdadi.IdahMaknun (TAGS: BIB, CENT1400, COL, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `1341CabdHayyTalibi.IclamBiMan (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM)`
+* `1342MahmudShukriAlusi.FaslKhitab (TAGS: CENT1400, _CAQAID)`
+* `1342MahmudShukriAlusi.GhayatAmani (TAGS: CENT1400, _CAQAID)`
+* `1342MahmudShukriAlusi.MaDallaCalayhiQuran (TAGS: CENT1400, _CULUM, _QURAN, _TAFSIR)`
+* `1342MahmudShukriAlusi.MukhtasarTuhfaIthnaCashariyya (TAGS: _CAQAID, _CENT00NO)`
+* `1342MahmudShukriAlusi.SabbCadhab (TAGS: CENT1400, _CAQAID)`
+* `1342MahmudShukriAlusi.Suyuf (TAGS: CENT1400, _FARQ, _RUDUD)`
 * `1345IbnJacfarKattani.RisalaMustatrafa (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `1346CbdQadirBadran.MadkhalIlaMadhhabAhmad (TAGS: CENT1400, _FIQH, _QAWACID, _USUL)`
 * `1346CbdQadirBadran.Munadama (TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT, _TARIKH)`
 * `1347BashirYamut.Shacirat (TAGS: _CENT00NO, _TABAQAT, _TARAJIM)`
+* `1349IbnSahmanKhathcami.BayanMubdi (TAGS: CENT1400, _CAQAID)`
+* `1349IbnSahmanKhathcami.DiyaShariq (TAGS: CENT1400, _CAQAID)`
+* `1349IbnSahmanKhathcami.Futyayan (TAGS: _CAQAID, _CENT00NO, _FIRAQ, _MILAL)`
+* `1349IbnSahmanKhathcami.IqamatHujja (TAGS: CENT1400, _CAQAID)`
+* `1349IbnSahmanKhathcami.KashfAwham (TAGS: CENT1400, _CAQAID, _MILAL)`
+* `1349IbnSahmanKhathcami.KashfGhayahib (TAGS: CENT1400, _CAQAID)`
+* `1349IbnSahmanKhathcami.KashfShubhatayn (TAGS: CENT1400, _CAQAID)`
+* `1349IbnSahmanKhathcami.MinhajAhlHaqq (TAGS: CENT1400, _CAQAID)`
+* `1349IbnSahmanKhathcami.NazamIkhtiyarat (TAGS: CENT1400, _FIQH)`
+* `1349IbnSahmanKhathcami.NazamMaInfaradaBihi (TAGS: CENT1400, _FIQH)`
+* `1349IbnSahmanKhathcami.SawaciqMursala (TAGS: CENT1400, _CAQAID)`
+* `1349IbnSahmanKhathcami.TamayyuzSidq (TAGS: CENT1400, _CAQAID, _MILAL)`
+* `1349IbnSahmanKhathcami.TanbihDhawiAlbab (TAGS: CENT1400, _CAQAID)`
 * `1351IbnHusaynGhazzi.NahrDhahab (TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `1351YusufIlyanSarkis.MucjamMatbucat (TAGS: BIB, CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `1353IbnCabdRahimMubarakfuri.TuhfatAhwadhi (TAGS: CENT1300, CENT1400, _CHRONOMULTIPLE, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
