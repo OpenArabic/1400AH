@@ -140,7 +140,7 @@
 
 
 
-# 1400AH [[ [Re]generated on 2017-01-04 (16:16:12) ]]
+# 1400AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
 
 * `1306HamidNaqwi.KhulasatCuqubatAnwar (TAGS: CENT1400, _HADITH, _SHICI)`
 * `1307Qannawji.AbjadCulum (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM)`
@@ -168,7 +168,7 @@
 * `1320NuriTabarsi.NafsRahman (TAGS: CENT1400, _CAQAID, _SHICI, _TWELVERS)`
 * `1327AhmadIbrahimCisa.RaddCalaShubuhat (TAGS: CENT1400, _CAQAID)`
 * `1327AhmadIbrahimCisa.TawdihMaqasid (TAGS: CENT1400, _CAQAID, _MILAL)`
-* `1328AbuHudaSayyadi.Diwan (TAGS: _CENT00NO, _SHICR_CUTHMANI, _SHICR)`
+* `1328AbuHudaSayyadi.Diwan (TAGS: _SHICR_CUTHMANI, _SHICR)`
 * `1329MuhammadAshrafCazimabadi.CawmMacbud (TAGS: CENT1400, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
 * `1330IbnMusaTabrizi.MiratKutub (TAGS: BIB, CENT1400, PPE, _FAHARIS, _KUTUB)`
 * `1332ZaynabFawwaz.DurrManthur (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM)`
@@ -182,16 +182,19 @@
 * `1342MahmudShukriAlusi.FaslKhitab (TAGS: CENT1400, _CAQAID)`
 * `1342MahmudShukriAlusi.GhayatAmani (TAGS: CENT1400, _CAQAID)`
 * `1342MahmudShukriAlusi.MaDallaCalayhiQuran (TAGS: CENT1400, _CULUM, _QURAN, _TAFSIR)`
-* `1342MahmudShukriAlusi.MukhtasarTuhfaIthnaCashariyya (TAGS: _CAQAID, _CENT00NO)`
+* `1342MahmudShukriAlusi.MukhtasarTuhfaIthnaCashariyya (TAGS: _CAQAID)`
 * `1342MahmudShukriAlusi.SabbCadhab (TAGS: CENT1400, _CAQAID)`
 * `1342MahmudShukriAlusi.Suyuf (TAGS: CENT1400, _FARQ, _RUDUD)`
+* `1343MustafaManfaluti.Cibarat (TAGS: CENT1400, _ADAB, _BALAGHA)`
+* `1343MustafaManfaluti.Hijab (TAGS: CENT1400, _ADAB, _ADHKAR, _RAQAIQ)`
+* `1343MustafaManfaluti.Nazarat (TAGS: CENT1400, _ADAB, _BALAGHA)`
 * `1345IbnJacfarKattani.RisalaMustatrafa (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `1346CbdQadirBadran.MadkhalIlaMadhhabAhmad (TAGS: CENT1400, _FIQH, _QAWACID, _USUL)`
 * `1346CbdQadirBadran.Munadama (TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT, _TARIKH)`
-* `1347BashirYamut.Shacirat (TAGS: _CENT00NO, _TABAQAT, _TARAJIM)`
+* `1347BashirYamut.Shacirat (TAGS: _TABAQAT, _TARAJIM)`
 * `1349IbnSahmanKhathcami.BayanMubdi (TAGS: CENT1400, _CAQAID)`
 * `1349IbnSahmanKhathcami.DiyaShariq (TAGS: CENT1400, _CAQAID)`
-* `1349IbnSahmanKhathcami.Futyayan (TAGS: _CAQAID, _CENT00NO, _FIRAQ, _MILAL)`
+* `1349IbnSahmanKhathcami.Futyayan (TAGS: _CAQAID, _FIRAQ, _MILAL)`
 * `1349IbnSahmanKhathcami.IqamatHujja (TAGS: CENT1400, _CAQAID)`
 * `1349IbnSahmanKhathcami.KashfAwham (TAGS: CENT1400, _CAQAID, _MILAL)`
 * `1349IbnSahmanKhathcami.KashfGhayahib (TAGS: CENT1400, _CAQAID)`
@@ -212,7 +215,7 @@
 * `1359CabbasQummi.Kuna (TAGS: CENT1400, ONO, PPE, _IMAM, _NABI, _SIRA)`
 * `1360IbnQasimMakhluf.ShajaraNur (TAGS: BIO, CENT1400, COL, PPE, _MISC)`
 * `1364IbnHamdMughiri.MuntakhabQabail (TAGS: CENT1400, _ANSAB, _BULDAN, _TARIKH)`
-* `1364MacrufRusafi.Diwan (TAGS: _CENT00NO, _SHICR_CUTHMANI, _SHICR)`
+* `1364MacrufRusafi.Diwan (TAGS: _SHICR_CUTHMANI, _SHICR)`
 * `1368HasanAmin.MustadrakatAcyanShica (TAGS: CENT1400, PPE, _TARIKH)`
 * `1369MuhammadRida.AbuBakr (TAGS: CENT1400, _TABAQAT, _TARAJIM)`
 * `1369MuhammadRida.Cuthman (TAGS: CENT1400, _TABAQAT, _TARAJIM)`
