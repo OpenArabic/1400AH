@@ -77,8 +77,8 @@
 - `0466CabdAzizKattani.DhaylTarikhMawlidCulama (18,115 words; 463 units; 0 bios)`
 - `0476AbuIshaqShirazi.TabaqatFuqaha (30,392 words; 508 units; 0 bios)`
 - `0482AbuIshaqHabbal.WafayatMisriyyin (6,616 words; 497 units; 0 bios)`
-- `0521IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (4,082 words; 84 units; 0 bios)`
+- `0526IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0544CiyadIbnMusaYahsubi.TartibMadarik (320,968 words; 1,177 units; 0 bios)`
 - `0555IbnQalanisi.Tarikh (120,986 words; 157 units; 0 bios)`
 - `0565IbnZaydBayhaqi.TarikhBayhaq (121,031 words; 299 units; 0 bios)`
@@ -140,7 +140,7 @@
 
 
 
-# 1400AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
+# 1400AH [[ [Re]generated on 2017-01-22 (16:18:08) ]]
 
 * `1306HamidNaqwi.KhulasatCuqubatAnwar (TAGS: CENT1400, _HADITH, _SHICI)`
 * `1307Qannawji.AbjadCulum (TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM)`
@@ -171,6 +171,14 @@
 * `1328AbuHudaSayyadi.Diwan (TAGS: _SHICR_CUTHMANI, _SHICR)`
 * `1329MuhammadAshrafCazimabadi.CawmMacbud (TAGS: CENT1400, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
 * `1330IbnMusaTabrizi.MiratKutub (TAGS: BIB, CENT1400, PPE, _FAHARIS, _KUTUB)`
+* `1332IbnMuhammadJamalDinQasimi.IslahMasajid (TAGS: CENT1400, _BUHUTH, _MASAIL)`
+* `1332IbnMuhammadJamalDinQasimi.IslahMasajid (TAGS: CENT1400, _FIQH, _MASAIL)`
+* `1332IbnMuhammadJamalDinQasimi.JarhWaTacdil (TAGS: CENT1400, _CULUM, _HADITH)`
+* `1332IbnMuhammadJamalDinQasimi.MahasinTawil (TAGS: CENT1400, _TAFSIR)`
+* `1332IbnMuhammadJamalDinQasimi.Mash (TAGS: CENT1400, _ALBANI, _FIQH, _MASAIL)`
+* `1332IbnMuhammadJamalDinQasimi.MawcizatMuminin (TAGS: CENT1400, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
+* `1332IbnMuhammadJamalDinQasimi.QawacidTahdith (TAGS: CENT1400, _CULUM, _HADITH, _MUSTALAHAT)`
+* `1332IbnMuhammadJamalDinQasimi.RisalaFiShay (TAGS: CENT1400, _ADAB, _BALAGHA)`
 * `1332ZaynabFawwaz.DurrManthur (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM)`
 * `1335CabdRazzaqBaytar.HilyaBashar (TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `1336CabdHamidThani.MudhakkaratiSiyasiya (TAGS: CENT1400, _MUDHAKKARAT, _QADA, _RIHLAT, _SIYASA)`
@@ -205,6 +213,7 @@
 * `1349IbnSahmanKhathcami.SawaciqMursala (TAGS: CENT1400, _CAQAID)`
 * `1349IbnSahmanKhathcami.TamayyuzSidq (TAGS: CENT1400, _CAQAID, _MILAL)`
 * `1349IbnSahmanKhathcami.TanbihDhawiAlbab (TAGS: CENT1400, _CAQAID)`
+* `1350SalihLahidan.WujubCadl (TAGS: _CENT00NO, _FATAWA)`
 * `1351IbnHusaynGhazzi.NahrDhahab (TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `1351YusufIlyanSarkis.MucjamMatbucat (TAGS: BIB, CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `1353IbnCabdRahimMubarakfuri.TuhfatAhwadhi (TAGS: CENT1300, CENT1400, _CHRONOMULTIPLE, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
@@ -216,6 +225,7 @@
 * `1360IbnQasimMakhluf.ShajaraNur (TAGS: BIO, CENT1400, COL, PPE, _MISC)`
 * `1364IbnHamdMughiri.MuntakhabQabail (TAGS: CENT1400, _ANSAB, _BULDAN, _TARIKH)`
 * `1364MacrufRusafi.Diwan (TAGS: _SHICR_CUTHMANI, _SHICR)`
+* `1368CaliJarim.NahwWadih (TAGS: _NAHW, _SARF)`
 * `1368HasanAmin.MustadrakatAcyanShica (TAGS: CENT1400, PPE, _TARIKH)`
 * `1369MuhammadRida.AbuBakr (TAGS: CENT1400, _TABAQAT, _TARAJIM)`
 * `1369MuhammadRida.Cuthman (TAGS: CENT1400, _TABAQAT, _TARAJIM)`
